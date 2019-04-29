@@ -75,4 +75,4 @@ You can contact me at jamesgathuru001@gmail.com
 ## License
 
 Copyright (c) 2018 **James Gathuru**
-Licence type : [MIT](https://opensource.org/licenses/MIT)
+Licence type : [MIT](https://opensource.org/licenses/MIT). Click the MIT markdown to check it out.
