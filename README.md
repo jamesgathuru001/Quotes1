@@ -48,6 +48,15 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 + '''Clone the project into your machine from  '''
 + '''Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.'''
 
+## Summary of how app works
+
+| Behavior                | Input                         | output                                |
+|-------------------------|:-----------------------------:|--------------------------------------:|
+| open the app            | scroll  down page             | Template quotes displayed             |
+| GO to make quote column | Type in the quote and name    | New quote appended to quotes          |
+| click drop down         | A pallet is opened            | Details about the quote displayed     |
+| Click up vote thumb     |  number of likes increases    |Quote with highest likes highlighted   |
+| Click down vote thumb   |  Number of dislikes increases |Quote with highest dislikes eliminated |
 
 ## Live Demo
 To view the page click here: [QUOTES]()
