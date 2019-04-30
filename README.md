@@ -14,7 +14,7 @@ The applications allows users to do the following:
 + See the number of upvotes and number of downvotes for each quote.
 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+This project was generated with  [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
 ### Development server
 
