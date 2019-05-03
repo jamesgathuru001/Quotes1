@@ -45,7 +45,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Installation
 ### Cloning
 + '''Make sure you have all the Requirements or running angular apps installed such as node,npm, tsc and watchman'''
-+ '''Clone the project into your machine from  '''
++ '''Clone the project into your machine from https://github.com/jamesgathuru001/Quotes1.git '''
 + '''Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.'''
 
 ## Summary of how app works
@@ -59,7 +59,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 | Click down vote thumb   |  Number of dislikes increases |Quote with highest dislikes eliminated |
 
 ## Live Demo
-To view the page click here: [QUOTES]()
+To view the page click here: [QUOTES](https://jamesgathuru001.github.io/Quotes1/)
 
 ## Technology Used
 + Angular JS
